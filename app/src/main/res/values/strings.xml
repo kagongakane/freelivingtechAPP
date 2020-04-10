@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">freelivingtechAPP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FreeLiving Techlologies</string>
+    <string name="nav_header_subtitle">ECG monitor APP</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="textEt">this is the pdf that will be suded to export the tables from the history screen and the graphs from the statistics screen</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">History</string>
+    <string name="menu_slideshow">Statistics</string>
+    <string name="menu_tools">Info</string>
+    <string name="menu_share">Menu</string>
+    <string name="menu_send">Send</string>
+    <string name="the_last_recorded_heart_rate_was">The Last Recorded Heart Rate was:</string>
+    <string name="heart_rate_was">Heart Rate Was:</string>
+    <string name="date_dd_mm_yr">Date(dd/mm/yr):</string>
+    <string name="todo">to-do</string>
+    <string name="normal_heart_rate_range">Heart rate, also known as pulse, is the number of times a person\'s heart beats per minute. Normal heart rate varies from person to person, but a normal range for adults is 60 to 100 beats per minute.</string>
+    <string name="what_is_the_normal_range_for_heart_rate">WHAT IS THE NORMAL RANGE FOR HEART RATE?</string>
+    <string name="how_does_age_affect_heart_rate">HOW DOES AGE AFFECT HEART RATE?</string>
+    <string name="age_and_heart_rate">Aging can cause changes in the heart and blood vessels. For example, as you get older, your heart can\'t beat as fast during physical activity or times of stress as it did when you were younger. However, the number of heartbeats per minute (heart rate) at rest does not change significantly with normal aging.Age can cause other changes to the heart. For example:
+
+There are age-related changes in the electrical system that can lead to arrhythmias—a rapid, slowed, or irregular heartbeat—and/or the need for a pacemaker. Valves—the one-way, door-like parts that open and close to control blood flow between the chambers of your heart—may become thicker and stiffer. Stiffer valves can limit the flow of blood out of the heart and become leaky, both of which can cause fluid to build up in the lungs or in the body (legs, feet, and abdomen).</string>
+    <string name="what_is_bradicardia">WHAT IS BRADICARDIA ?</string>
+    <string name="brady">Bradycardia is a heart rate that’s too slow. What’s considered too slow can depend on your age and physical condition. Elderly people, for example, are more prone to bradycardia.
+
+In general, for adults, a resting heart rate of fewer than 60 beats per minute (BPM) qualifies as bradycardia.
+
+But there are exceptions. Your heart rate may fall below 60 BPM during deep sleep. And physically active adults (and athletes) often have a resting heart rate slower than 60 BPM.</string>
+    <string name="what_is_tachycardia">WHAT IS TACHYCARDIA?</string>
+    <string name="tachy">Tachycardia refers to a heart rate that’s too fast. How that’s defined may depend on your age and physical condition.
+
+Generally speaking, for adults, a heart rate of more than 100 beats per minute (BPM) is considered too fast.</string>
+    <string name="historical_data">HISTORICAL DATA</string>
+    <string name="date_dd_mm_yr_">DATE\n(dd/mm/yr)</string>
+    <string name="average_heart_rate_bbm">AVERAGE HEART\n   RATE (bbm)</string>
+    <string name="minimum_heart_rate_bpm">MINIMUM HEART\n   RATE (bpm)</string>
+    <string name="maximum_heart_rate_bpm">MAXIMUM HEART\n   RATE (bpm)</string>
+</resources>
